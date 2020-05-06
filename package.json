@@ -1,0 +1,16 @@
+{
+  "name": "pgpromises-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_album.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^10.5.2",
+    "prompt-promise": "^1.0.3"
+  }
+}
